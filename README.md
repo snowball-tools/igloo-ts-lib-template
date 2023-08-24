@@ -1,6 +1,8 @@
 # snowball-ts-lib-template
 
-Create a new typescrupt library
+NOTE: This is a template for creating a typescript library. It is not intended to be used.
+
+Create a new typescript library
 
 ## Create an [npm account](https://www.npmjs.com) and login
 
