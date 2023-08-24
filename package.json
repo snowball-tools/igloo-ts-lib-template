@@ -1,6 +1,7 @@
 {
-  "name": "igloo-ts-lib-template",
+  "name": "@snowballtools/snowball-ts-lib-template",
   "version": "0.0.1",
+  "author": "Snowball Tools Inc. <viv@iglootools.xyz>",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "license": "MIT",
@@ -11,5 +12,20 @@
   "devDependencies": {
     "@types/node": "^20.5.5",
     "typescript": "^5.2.2"
-  }
+  },
+  "description": "example ts lib",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowball-tools/igloo-ts-lib-template.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "bugs": {
+    "url": "https://github.com/snowball-tools/igloo-ts-lib-template/issues"
+  },
+  "homepage": "https://github.com/snowball-tools/igloo-ts-lib-template#readme"
 }
