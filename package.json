@@ -1,0 +1,15 @@
+{
+  "name": "igloo-ts-lib-template",
+  "version": "0.0.1",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "yarn run build"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.5",
+    "typescript": "^5.2.2"
+  }
+}
