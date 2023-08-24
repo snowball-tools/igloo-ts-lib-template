@@ -1,6 +1,6 @@
 # snowball-ts-lib-template
 
-NOTE: This is a template for creating a typescript library. It is not intended to be used.
+NOTE: This is a template for creating a typescript library. It is not intended to be used as a library.
 
 Create a new typescript library
 
