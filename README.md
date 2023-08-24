@@ -26,3 +26,17 @@ npm version <update_type>
 ```sh
 npm publish --access <>
 ```
+
+```sh
+yarn publish --access <>
+```
+
+## Install
+
+```sh
+npm i @snowballtools/snowball-ts-lib-template
+```
+
+```sh
+yarn add @snowballtools/snowball-ts-lib-template
+```
